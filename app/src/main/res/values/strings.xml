@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoteTaking-App</string>
+    <string name="please_enter_details">Please enter your name or email to proceed</string>
+</resources>
